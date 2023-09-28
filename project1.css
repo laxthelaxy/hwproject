@@ -1,0 +1,82 @@
+html {
+    padding: 0px;
+    margin: 10px;
+    scroll-behavior: smooth;
+  } 
+
+.body--home { 
+    background-color: #1C2E36;
+}
+
+.header { 
+    align-items: center;
+    padding: 0px; 
+    color:aliceblue; 
+}
+
+.home {
+    padding: 0px;
+    color: aliceblue;
+}
+
+.social {
+    color:aliceblue;
+    padding: 0px;
+}
+
+a:link {
+    color:aliceblue;
+    padding: 0px;
+}
+
+a:visited {
+    color:rgb(227, 250, 247);
+    padding: 0px;
+}
+
+.links {
+    text-decoration: none;
+    color: #FCF7F8;
+    padding: 20px;
+  }
+
+div {
+    margin: 10px auto;
+    width: 50vw;
+    padding: 25px; 
+    border-radius: 25px; 
+}
+p {
+    padding: 0px 25px;
+    color: #FCF7F8;
+}
+
+.green {
+    background: #9DCBBA;
+    color:#FCF7F8; 
+  }
+
+.black { 
+    background: rgb(70, 70, 70); 
+    color: #FCF7F8; 
+}
+
+.yellow { 
+    background: rgb(247, 237, 186); 
+    color: #FCF7F8; 
+}
+
+.blue { 
+    background: rgb(167, 205, 236);
+    color:#FCF7F8; 
+}
+
+.white {
+    background: rgb(243, 232, 210); 
+    color: black; 
+}
+
+.red {
+    background: rgb(223, 143, 143); 
+    color: white; 
+}
